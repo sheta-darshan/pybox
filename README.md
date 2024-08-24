@@ -1,2 +1,2 @@
 # pybox
-my pybox is with small projects which i learn
+"My PyBox is where I keep small projects that I'm learning from and experimenting with. It's a collection of practical learning exercises and explorations into different aspects of programming."
