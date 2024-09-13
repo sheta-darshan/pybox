@@ -7,7 +7,7 @@ root.geometry("400x200") # Set the size of the window
 root.config(bg="black") # Background color
 
 
-lable = tk.Label(root, font=('Helvetica', 58), bg="black",fg="cyan")
+lable = tk.Label(root, font=('Helvetica', 48), bg="black",fg="cyan")
 lable.pack(pady=20)
 
 def update_clock():
